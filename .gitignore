@@ -108,3 +108,4 @@ src/towitoko/libccidtwin_la-atr.lo
 src/towitoko/libccidtwin_la-pps.lo
 stamp-h1
 tags
+xcuserdata/
